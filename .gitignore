@@ -1,0 +1,6 @@
+#IDE specific files
+.idea
+
+#Directories
+.venv
+__pycache__
