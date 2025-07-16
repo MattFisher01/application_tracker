@@ -4,3 +4,6 @@
 #Directories
 .venv
 __pycache__
+
+#Specific files
+database.db
